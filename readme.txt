@@ -1,10 +1,11 @@
-===================================================
-||	MisturDust319's qPerlFile                ||
-||                                               ||
-||      a perl script that                       ||
-||                 makes other perl scripts!     || 
-||                                               ||
-===================================================
+===============================================================================
+||                                                                           ||
+||                      MisturDust319's qPerlFile                            ||
+||                                                                           ||
+||                   a perl script that                                      ||
+||                              makes other perl scripts!                    || 
+||                                                                           ||
+===============================================================================
 qPerlFile is a script that takes terminal arguments and makes perl scripts with
 the same name and a little bit of boilerplate code in them
 
