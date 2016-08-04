@@ -44,7 +44,7 @@ options:
 known bugs:
 	1. More an error w/ the perl parser setup, the first passed argument
 		won't always be recognized. This is due to how some setups
-		handle with terminal arguments.
+		handle terminal arguments.
 
 todo:
 	1. add interactive mode:
